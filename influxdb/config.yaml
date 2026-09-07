@@ -4,6 +4,7 @@ version: 5.0.2
 slug: influxdb
 description: Scalable datastore for metrics, events, and real-time analytics
 url: https://github.com/Yiivgeny/addon-influxdb
+image: ghcr.io/hassio-addons/influxdb/{arch}
 ingress: true
 ingress_port: 1337
 ingress_stream: true
